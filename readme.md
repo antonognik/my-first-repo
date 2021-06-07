@@ -1,6 +1,6 @@
 # Name
 
-*Nick Antonogiannis*
+*by Nick Antonogiannis*
 
 ### Location
 
@@ -18,7 +18,7 @@ My favorite books are:
 6. The Manual
 7. The New Testament
 8. The Anabasis Of Alexander
-9. Obvious Adams
+9. Βασιλέων Ἀποφθέγματα καὶ Στρατηγῶν
 10. Batrachomyomachia
 
 ### Food
