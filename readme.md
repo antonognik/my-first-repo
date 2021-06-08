@@ -4,7 +4,7 @@
 
 ### Location
 
-Greece
+Greece, Thessaloniki
 
 ### Reading
 
