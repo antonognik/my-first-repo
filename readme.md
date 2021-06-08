@@ -4,7 +4,7 @@
 
 ### Location
 
-Greece, Thessaloniki
+Greece, Thessaloniki, Μπότσαρη 
 
 ### Reading
 
